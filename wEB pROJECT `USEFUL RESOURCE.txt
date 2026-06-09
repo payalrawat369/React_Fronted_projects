@@ -1,0 +1,7 @@
+Resources which helps to create much better websites
+
+1.slider
+React slick slider
+
+2.ICONS 
+https://lucide.dev/icons/lightbulb

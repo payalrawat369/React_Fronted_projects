@@ -1,0 +1,31 @@
+employee task manager 
+
+srep1
+project setup 
+react+tailwind setup
+
+step 2:
+creating folder
+1.context
+2.components
+3.pages
+
+step 3:
+login page setup
+
+1.submitHandler
+-->preventdEFAULT()
+
+step 4:
+create all pages
+
+step 5:
+---> context API
+--->local storage
+localstorage.clear()
+setLocalstorage()
+getLocalstorage()
+
+step:adding functionalities
+1.when user login send user to emp or admin dashboard
+handleLogin ()
